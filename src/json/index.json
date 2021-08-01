@@ -1,0 +1,79 @@
+{
+	"skills": [
+		{
+			"value": "Python (Programming Language)",
+			"label": "py",
+			"icon": "brand-python"
+		},
+		{
+			"value": "JavaScript",
+			"label": "js",
+			"icon": "brand-javascript"
+		},
+		{
+			"value": "Git",
+			"label": "git",
+			"icon": "teenyicons:git-outline"
+		},
+		{
+			"value": "Natural Language Processing (NLP)",
+			"label": "nlp",
+			"icon": "wpf:audio-wave"
+		},
+		{
+			"value": "Machine Learning",
+			"label": "ml",
+			"icon": "carbon:machine-learning"
+		},
+		{
+			"value": "Google Cloud Platform (GCP)",
+			"label": "gcp",
+			"icon": "bx:bxl-google-cloud"
+		},
+		{
+			"value": "Node.js",
+			"label": "node",
+			"icon": "ion:logo-nodejs"
+		},
+		{
+			"value": "Svelte",
+			"label": "svelte",
+			"icon": "file-icons:svelte"
+		},
+		{
+			"value": "HTML",
+			"label": "html",
+			"icon": "tabler:brand-html5"
+		},
+		{
+			"value": "CSS",
+			"label": "css",
+			"icon": "tabler:brand-css3"
+		},
+		{
+			"value": "Financial Analysis",
+			"label": "finance",
+			"icon": "tabler:currency-dollar"
+		},
+		{
+			"value": "Statistics",
+			"label": "stats",
+			"icon": "tabler:chart-infographic"
+		},
+		{
+			"value": "Pandas (Software)",
+			"label": "pandas",
+			"icon": "tabler:brand-python"
+		},
+		{
+			"value": "Web Extensions",
+			"label": "webext",
+			"icon": "tabler:puzzle"
+		},
+		{
+			"value": "Flask",
+			"label": "flask",
+			"icon": "tabler:flask"
+		}
+	]
+}

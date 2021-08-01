@@ -1,0 +1,34 @@
+{
+  "name": "svelte-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "rollup -c",
+    "autobuild": "rollup -c -w",
+    "dev": "run-p start:dev autobuild",
+    "start": "sirv public --single",
+    "start:dev": "sirv public --single --dev"
+  },
+  "devDependencies": {
+    "@iconify/svelte": "^2.0.0-beta.1",
+    "@rollup/plugin-commonjs": "^17.0.0",
+    "@rollup/plugin-node-resolve": "^11.0.0",
+    "@smui/chips": "^4.2.0",
+    "npm-run-all": "^4.1.5",
+    "postcss-cli": "^8.3.1",
+    "rollup": "^2.3.4",
+    "rollup-plugin-css-only": "^3.1.0",
+    "rollup-plugin-livereload": "^2.0.0",
+    "rollup-plugin-svelte": "^7.0.0",
+    "rollup-plugin-terser": "^7.0.0",
+    "svelte": "^3.0.0",
+    "tabler-icons-svelte": "^1.7.0",
+    "tailwindcss": "^2.2.7"
+  },
+  "dependencies": {
+    "sirv-cli": "^1.0.0",
+    "svelte-collapsible": "^0.1.1",
+    "svelte-feather-icons": "^3.5.0",
+    "svelte-tabs": "^1.1.0"
+  }
+}
